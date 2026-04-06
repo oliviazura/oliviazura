@@ -6,7 +6,7 @@ My academic focus involves DS/ML as the intersection of my areas of study. I've 
 
 ### 📚 Current Academic Projects: <br>
 Reinforcement Learning with Minesweeper | Senior Capstone <br>
-Prediciting Sleep Scores with Neural Networks | Deep Learning <br>
+Analyzing Student Mental Health with Neural Networks | Deep Learning <br>
 ### 🐛 Current Personal Projects: <br>
 Pomodoro Tomato Timer <br>
 Personal Portfolio <br>
