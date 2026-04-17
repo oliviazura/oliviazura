@@ -5,7 +5,7 @@ This is where I work on both school related and personal projects. <br>
 My academic focus involves DS/ML as the intersection of my areas of study. I've also been growing interested in UI/UX design, as well as HCI! <br>
 
 ### 📚 Current Academic Projects: <br>
-Reinforcement Learning with Minesweeper | Senior Capstone <br>
+Reinforcement Learning with Mountain Car | Senior Capstone <br>
 Analyzing Student Mental Health with Neural Networks | Deep Learning <br>
 ### 🐛 Current Personal Projects: <br>
 Pomodoro Tomato Timer <br>
